@@ -44,12 +44,12 @@ The goal of this collection is to build strong conceptual understanding and hand
 ```
 DSA-Assignments-60/
 │
-├── Unit-I/
-├── Unit-II/
-├── Unit-III/
-├── Unit-IV/
-├── Unit-V/
-├── Unit-VI/
+├── Assignment1
+├── Assignment2
+├── Assignment3
+├── Assignment4
+├── Assignment5
+├── 
 │
 └── README.md
 ```
